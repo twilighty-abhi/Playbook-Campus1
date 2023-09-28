@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Platforms on TinkerHub Campus playbook</title>
+    <link>https://tinkerhub.org/docs/deployment/platforms/</link>
+    <description>Recent content in Cloud Platforms on TinkerHub Campus playbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Aug 2023 15:36:09 +0100</lastBuildDate><atom:link href="https://tinkerhub.org/docs/deployment/platforms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Pages</title>
+      <link>https://tinkerhub.org/docs/deployment/platforms/github-pages/</link>
+      <pubDate>Sat, 26 Aug 2023 15:36:39 +0100</pubDate>
+      
+      <guid>https://tinkerhub.org/docs/deployment/platforms/github-pages/</guid>
+      <description>Overview linkGitHub provides free and fast static hosting over SSL for personal, organization, or project pages directly from a GitHub repository via its GitHub Pages service and automating development workflows and build with GitHub Actions.
+Prerequisites link A GitHub Account Git Create a Hugo site using the Lotus Docs theme Procedure linkUse the following steps to get your Lotus Docs site up and running on GitHub Pages.
+Create a new repo on GitHub e.</description>
+    </item>
+    
+    <item>
+      <title>GitLab Pages</title>
+      <link>https://tinkerhub.org/docs/deployment/platforms/gitlab-pages/</link>
+      <pubDate>Sat, 26 Aug 2023 15:36:47 +0100</pubDate>
+      
+      <guid>https://tinkerhub.org/docs/deployment/platforms/gitlab-pages/</guid>
+      <description>Overview linkWith GitLab Pages, you can publish your Lotus Docs site directly from a repository in GitLab.
+Use for any personal or business website. Native support for Hugo. Create websites for your projects, groups, or user account. Host your site on your own GitLab instance or on GitLab.com for free. Connect your custom domains and TLS certificates. Attribute any license to your content. GitLab makes it easy to build, deploy, and host your Lotus Docs website via their free GitLab Pages service.</description>
+    </item>
+    
+  </channel>
+</rss>
